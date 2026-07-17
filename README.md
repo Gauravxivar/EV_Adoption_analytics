@@ -1,4 +1,4 @@
-# EV Adoption Analytics Dashboard
+# Global EV Adoption Behavior Analytics Dashboard
 
 End-to-end Data Analytics Project using MySQL, Python, and Power BI
 

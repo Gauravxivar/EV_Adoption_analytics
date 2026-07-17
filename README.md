@@ -49,9 +49,13 @@ Analyzed a 50,000-row EV adoption dataset to identify customer adoption patterns
 
 * Interactive slicers and filters
 
-### 📷 Dashboard Preview
+## 💡 SQL Concepts Covered
+- Aggregate functions (AVG, COUNT, SUM, ROUND)
+- GROUP BY, ORDER BY, LIMIT
+- Subqueries & Correlated Subqueries
+- Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
+- INNER JOIN with lookup table
 
-Add `dashboard.png` here after uploading the screenshot.
-## Dashboard Preview
-
-![EV Dashboard](dashboard.png)
+## 🐍 Python Libraries Used
+- pandas, NumPy — data cleaning
+- matplotlib, seaborn — visualizations
